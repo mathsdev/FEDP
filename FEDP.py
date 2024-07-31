@@ -1,4 +1,4 @@
-#requirement -> cryptography / os / pystyle
+#requirement -> cryptography / pystyle
 
 from cryptography.fernet import Fernet
 import base64
