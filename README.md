@@ -8,6 +8,12 @@
 
 
 
+## Requirements
+
+```
+pip install cryptography
+pip install pystyle
+```
 
 ## Interface
 
@@ -33,6 +39,12 @@ Gp2sFnsLoMwdRS
 <h1 align="center">FEDP Lite</h1>
 
 <h3 align="center">the same program as classic FEDP but without interface</h3>
+
+## Requirement
+
+```
+pip install cryptography
+```
 
 
 ## Usage
