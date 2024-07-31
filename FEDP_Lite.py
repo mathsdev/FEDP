@@ -1,4 +1,4 @@
-#requirement -> cryptography / os 
+#requirement -> cryptography 
 #USE python FEDP_Lite.py {encrypt/decrypt} file_path key
 from cryptography.fernet import Fernet
 import base64
